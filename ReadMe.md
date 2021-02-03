@@ -2,6 +2,11 @@
 
 **This bot can send all new messages from one channel, directly to another channel, without the forwarded tag!**
 
+<h1>
+  <a href="https://telegram.dog/YouTube_dl_by_Luci_bot"><img src="https://github.com/Lucifer-00007/AutoForward_Bot_By_Luci/blob/main/AFBL/1612350220372.png"</a>
+</h1>
+
+
 ## Setting up 
 * **First**:
 > `APP_ID` **and** `API_HASH` - **Get it from my.telegram.org**   
