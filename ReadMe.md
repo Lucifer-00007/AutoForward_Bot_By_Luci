@@ -6,7 +6,7 @@
 * **First**:
 > `APP_ID` **and** `API_HASH` - **Get it from my.telegram.org**   
 > `BOT_TOKEN` - **Get it from** [@BotFather](https://t.me/BotFather)   
->**ID of** `FROM_CHANNEL` **and** `TO_CHANNEL` - **Get it from @chnlidbot**
+>**ID of** `FROM_CHANNEL` **and** `TO_CHANNEL` - **Get it from** [@chnlidbot](https://t.me/chnlidbot)
 
 
 * **Chose a platform to deploy on:**
