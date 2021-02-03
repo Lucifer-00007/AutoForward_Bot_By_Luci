@@ -9,12 +9,14 @@
 >**ID of** `FROM_CHANNEL` **and** `TO_CHANNEL` - **Get it from** [@chnlidbot](https://t.me/chnlidbot)
 
 
+
 * **Chose a platform to deploy on:**
 <details>
 <summary>Heroku/Kintohub/Zeet</summary>
 <br>
 Add the above values to the environment vars and deploy the bot.
 </details>
+
 <details>
 <summary>Local Deoploys</summary>
 <br>
@@ -22,6 +24,8 @@ Add the above values to the environment vars and deploy the bot.
 - Make a <code>.env</code> file in the root of the repo, like <a href="https://github.com/Lucifer-00007/AutoForward_Bot_By_Luci/blob/main/AFBL/sample.env.txt">sample.env.txt</a> and fill in the values.</br>
 - Use <code>python Auto_Forward_bot.py</code> to start the bot.</br>  
 </details>
+
+
 
 ## Usage
 **Add the bot to both channels with admin permission, and thats it!
